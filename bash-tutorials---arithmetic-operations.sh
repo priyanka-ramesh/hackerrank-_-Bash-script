@@ -5,3 +5,7 @@
 
 read input
 printf "%.3f\n" `echo "$input" | bc -l`
+
+
+https://www.tutorialsandyou.com/bash-shell-scripting/bash-bc-18.html
+https://linuxize.com/post/bash-printf-command/
